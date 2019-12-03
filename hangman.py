@@ -4,7 +4,7 @@
 # Time spent: ---
 
 # Hangman Game
-# -----------------------------------
+# ----------------------------------
 # Helper code
 # You don't need to understand this helper code,
 # but you will have to know how to use the functions
